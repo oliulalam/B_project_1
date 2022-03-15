@@ -1,0 +1,28 @@
+.p-card{
+    border: 0;
+}
+.card-no{
+    border: 0;
+    background-color: white;
+}
+.b-card{
+    border: 0;
+}
+.catagoris img{
+
+    width: 80px;
+}
+.carousel-back .carousel-item{
+    background-color: #FCEAE8;
+    border-radius: 2em;
+}
+.btn{
+    margin: 15px 0px;
+}
+.email{
+    width: 355px;
+    margin: 15px 0px auto;
+}
+.foot small{
+    font-size: 17px;
+}
